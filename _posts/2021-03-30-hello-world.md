@@ -1,10 +1,10 @@
 ---
-title: 你好，世界！
+title: 诞生！
 date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: WILLleeo
 
 toc: true
 comments: true
@@ -14,14 +14,14 @@ mermaid: true
 
 image:
   src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
-  alt: 签约成功
+  alt: 不是我，希望也能像大佬这样
 
 ---
 
-# 感谢关注～ 
 
 
-这里可以放代码片段噢～
+
+
 ```c++
 //代码片段
 int main(){
